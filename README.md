@@ -21,3 +21,10 @@ Download the latest release from the GitHub releases page.
 - This tool is provided as-is, without any warranties. Use it at your own risk.
 
 - Ensure that you have the necessary permissions and rights to terminate processes on your system. ( for the teleport fixer )
+
+# Authors
+@LSUDEV
+
+# Credits
+All credits to the original cpp maker of this program
+@obaduca ( https://github.com/obaduca/UWP-Fixer )
